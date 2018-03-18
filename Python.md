@@ -28,5 +28,10 @@ Python
 [Python入门基础](http://edu.tv.sohu.com/course/1a64ea6ed98a801e)  
 > 1.Python初学者 2.对Python语言统计分析感兴趣的各界人员
 
+[中文，免费，零起点，完整示例，基于最新的Python 3版本](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
+
+[Python 100例](http://www.runoob.com/python/python-100-examples.html)  
+
+
 
 
