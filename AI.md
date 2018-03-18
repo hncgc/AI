@@ -292,8 +292,13 @@ Intelligent Machine
 1.https://www.jiqizhixin.com/articles/AI00-Jan-2018  
 2.https://www.shenzhenware.com/articles/12171  
 
+----------
 
-！
+[人工智能视频课程网盘下载](http://blog.csdn.net/qq_37494422/article/details/78798746)  
+```
+分享网盘地址——https://pan.baidu.com/s/1qZjNNju 密码: aiq1
+https://pan.baidu.com/s/1mkcKCdE 密码: mkxh
+```
 
 
 
