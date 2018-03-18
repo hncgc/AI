@@ -25,6 +25,8 @@ Python
 
 [Python Web开发](http://www.maiziedu.com/course/python/)  
 
+[Python入门基础](http://edu.tv.sohu.com/course/1a64ea6ed98a801e)  
+> 1.Python初学者 2.对Python语言统计分析感兴趣的各界人员
 
 
 
