@@ -23,5 +23,8 @@ Python
 
 [Youtube最受欢迎的python机器学习实战课程](https://www.douban.com/note/601233158/)  
 
+[Python Web开发](http://www.maiziedu.com/course/python/)  
+
+
 
 
