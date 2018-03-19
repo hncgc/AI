@@ -5,6 +5,8 @@ Python安装
 ---
 [Python 3.6.4](https://www.python.org/downloads/release/python-364/)  
 
+[Python 官网文档](https://docs.python.org/3.6/index.html)  
+
 [Python 官网教程](https://docs.python.org/3.6/tutorial/index.html)  
 
 [在windows64位上安装Python3.0](https://www.cnblogs.com/panpanilu/p/7766951.html)  
