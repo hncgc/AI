@@ -54,6 +54,25 @@ pip
 ---
 
 https://pip.pypa.io/en/latest/installing/
+```
+pip安装
+https://bootstrap.pypa.io/get-pip.py
+
+get-pip.py拷贝到C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts
+双击get-pip.py或
+在cmd下
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts>python get-pip.py
+
+运行结果：下载
+easy_install.exe
+easy_install-3.6.exe
+pip.exe
+pip3.6.exe
+pip3.exe
+wheel.exe
+到C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts
+
+```
 
 [pip安装使用详解](http://www.ttlsa.com/python/how-to-install-and-use-pip-ttlsa/)  
 
