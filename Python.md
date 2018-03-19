@@ -50,6 +50,27 @@ python setup.py install
 
 -------
 
+pip
+---
+
+https://pip.pypa.io/en/latest/installing/
+
+[pip安装使用详解](http://www.ttlsa.com/python/how-to-install-and-use-pip-ttlsa/)  
+
+[Python | 如何用pip安装模块和包](https://jingyan.baidu.com/article/466506583fec5af549e5f825.html)  
+
+[PYTHON包管理工具PIP的基本使用](https://www.cnblogs.com/olivexiao/p/6964000.html)  
+
+[python中pip的安装与使用](http://blog.csdn.net/qy20115549/article/details/52179800)  
+
+[Python的包管理工具pip的安装与使用](http://blog.csdn.net/liuchunming033/article/details/39578019)  
+
+[Python学习笔记（一）三步走安装pip](http://blog.csdn.net/u013534498/article/details/51477717)  
+
+[如何在win7下安装python包工具pip](https://jingyan.baidu.com/album/e73e26c0d94e0524adb6a7ff.html?picindex=2)  
+
+-------
+
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
 
 [Python2 基础教程](http://www.runoob.com/python/python-tutorial.html)  
