@@ -99,17 +99,18 @@ wheel.exe
 
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
 
-[Python2 基础教程](http://www.runoob.com/python/python-tutorial.html)  
+[Python2 基础教程 | 菜鸟教程](http://www.runoob.com/python/python-tutorial.html)  
 
-[Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)  
+[Python3 教程 | 菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html) 
 
 [Python中文手册](http://www.runoob.com/manual/pythontutorial3/docs/html/)  
+
+[中文，免费，零起点，完整示例，基于最新的Python 3版本 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 
 
 [你都用 Python 来做什么？](https://www.zhihu.com/question/20799742)  
 
 [PythonTab:Python中文开发者社区门户](http://www.pythontab.com/)  
-
-[Python3 教程 | 菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)  
+ 
 
 [python基础教程_python高级教程_python手册_python实例 - 红黑联盟](https://www.2cto.com/kf/web/Python/)  
 
@@ -117,16 +118,15 @@ wheel.exe
 
 [我爱自然语言处理](http://www.52nlp.cn/tag/python)  
 
-[史植忠 高级人工智能视频下载（86集全）](https://www.douban.com/note/599608532/)  
-
 [Youtube最受欢迎的python机器学习实战课程](https://www.douban.com/note/601233158/)  
 
 [Python Web开发](http://www.maiziedu.com/course/python/)  
 
-[Python入门基础](http://edu.tv.sohu.com/course/1a64ea6ed98a801e)  
-> 1.Python初学者 2.对Python语言统计分析感兴趣的各界人员
+[史植忠 高级人工智能视频下载（86集全）](https://www.douban.com/note/599608532/)  
 
-[中文，免费，零起点，完整示例，基于最新的Python 3版本](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
+[Python入门基础 搜狐课堂](http://edu.tv.sohu.com/course/1a64ea6ed98a801e)  
+> 1.Python初学者 2.对Python语言统计分析感兴趣的各界人员
+ 
 
 [Python 100例](http://www.runoob.com/python/python-100-examples.html)  
 
