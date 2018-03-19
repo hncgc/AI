@@ -126,6 +126,9 @@ wheel.exe
 
 [Python入门基础 搜狐课堂](http://edu.tv.sohu.com/course/1a64ea6ed98a801e)  
 > 1.Python初学者 2.对Python语言统计分析感兴趣的各界人员
+
+[Python入门基础 搜狐视频](https://edu.tv.sohu.com/play/sid/f031a6c300ece0d9)  
+
  
 
 [Python 100例](http://www.runoob.com/python/python-100-examples.html)  
