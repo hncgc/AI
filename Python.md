@@ -1,6 +1,35 @@
 Python
 ===
 
+Python安装
+---
+
+[在windows64位上安装Python3.0](https://www.cnblogs.com/panpanilu/p/7766951.html)  
+> 下载地址：https://www.python.org/downloads/
+```
+如果要下载帮助文件：Download Windows help file
+
+如果要下载基于网页的安装程序： Download Windows x86-64 web-based installer
+
+如果要下载可执行的安装程序： Download Windows x86-64 executable installer
+
+如果要下载python程序的压缩包： Download Windows x86-64 embeddable zip fil
+```
+
+[安装Python - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)  
+
+[windows下面安装Python和pip终极教程 ](https://www.cnblogs.com/clover-siyecao/p/5693935.html)  
+
+[windows下安装Python和pip终极图文教程](http://www.jb51.net/article/107497.htm)  
+
+[Python 环境搭建](http://www.runoob.com/python/python-install.html)  
+
+[Python在Windows系统下安装环境的搭建 - CSDN博客](http://blog.csdn.net/z_johnny/article/details/50733843)  
+
+[windows下面安装Python和pip终极教程 - CSDN博客](http://blog.csdn.net/nomey_mr/article/details/55095984)  
+
+-------
+
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
 
 [Python2 基础教程](http://www.runoob.com/python/python-tutorial.html)  
