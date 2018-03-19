@@ -97,6 +97,18 @@ wheel.exe
 
 -------
 
+jupyter
+---
+[使用Anconda安装python2.7](http://continuum.io/downloads)  
+
+[致Python初学者们 - Anaconda入门使用指南](https://www.jianshu.com/p/169403f7e40c)  
+
+[Jupyter notebook 安装，初步使用](https://www.cnblogs.com/wrajj/p/5676705.html)  
+
+[左手程序员，右手作家：你必须会的Jupyter Notebook](http://python.jobbole.com/87527/?repeat=w3tc)  
+
+-------
+
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
 
 [Python2 基础教程 | 菜鸟教程](http://www.runoob.com/python/python-tutorial.html)  
