@@ -56,6 +56,9 @@ pip
 https://pip.pypa.io/en/latest/installing/
 ```
 pip安装
+https://pip.pypa.io/en/latest/installing/
+To install pip, securely download get-pip.py. [1]:
+
 https://bootstrap.pypa.io/get-pip.py
 
 get-pip.py拷贝到C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts
