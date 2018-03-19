@@ -3,6 +3,7 @@ Python
 
 Python安装
 ---
+[Python 3.6.4](https://www.python.org/downloads/release/python-364/)  
 
 [在windows64位上安装Python3.0](https://www.cnblogs.com/panpanilu/p/7766951.html)  
 > 下载地址：https://www.python.org/downloads/
