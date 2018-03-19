@@ -93,6 +93,8 @@ wheel.exe
 
 [如何在win7下安装python包工具pip](https://jingyan.baidu.com/album/e73e26c0d94e0524adb6a7ff.html?picindex=2)  
 
+[easy_install 和 pip 的安装及使用](http://blog.csdn.net/xsj_blog/article/details/52037609)  
+
 -------
 
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
