@@ -75,6 +75,8 @@ pip3.exe
 wheel.exe
 到C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts
 
+要想能在命令行上直接运行pip程序，需要scripts这个目录加入到环境变量PATH中
+
 ```
 
 [pip安装使用详解](http://www.ttlsa.com/python/how-to-install-and-use-pip-ttlsa/)  
