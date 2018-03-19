@@ -103,6 +103,8 @@ wheel.exe
 
 [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)  
 
+[Python中文手册](http://www.runoob.com/manual/pythontutorial3/docs/html/)  
+
 [你都用 Python 来做什么？](https://www.zhihu.com/question/20799742)  
 
 [PythonTab:Python中文开发者社区门户](http://www.pythontab.com/)  
