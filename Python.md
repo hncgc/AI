@@ -22,6 +22,9 @@ Python安装
 
 安装位置：C:\Users\Administrator\AppData\Local\Programs\Python\Python36
 
+安装pip
+
+安装pip 需要在Python的官网上去下载，下载地址是：https://pypi.python.org/pypi/pip#downloads
 ```
 
 [安装Python - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)  
