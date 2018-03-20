@@ -294,7 +294,8 @@ Python3网络爬虫
 
 [Python3网络爬虫(十四)：跟股神巴菲特学习炒股之财务报表入库(MySQL)](http://blog.csdn.net/c406495762/article/details/77801899)  
 
-[]()  
+
+-------
 
 [Windows7下Python3.4使用MySQL数据库(安装教程)](http://blog.csdn.net/c406495762/article/details/56279888)  
 
@@ -302,13 +303,13 @@ Python3网络爬虫
 
 []()  
 
-
+-------
 
 
 Python3《机器学习实战》学习笔记
 ---
 
-[ack-Cui](ttp://blog.csdn.net/c406495762)  
+[ack-Cui](http://blog.csdn.net/c406495762)  
 
 [Python3《机器学习实战》学习笔记（一）：k-近邻算法(史诗级干货长文)](http://blog.csdn.net/c406495762/article/details/75172850)  
 
