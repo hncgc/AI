@@ -333,11 +333,44 @@ Python3《机器学习实战》学习笔记
 
 [Python3《机器学习实战》学习笔记（十一）：线性回归基础篇之预测鲍鱼年龄](http://blog.csdn.net/c406495762/article/details/78760239)  
 
-  
+---------
 
+Caffe
+---
 
+[Caffe （卷积神经网络框架）](https://baike.baidu.com/item/Caffe/16301044?fr=aladdin)  
 
+[caffe2 教程入门（python版）](https://www.jianshu.com/p/5c0fd1c9fef9?from=timeline)  
 
+[Caffe社区](http://www.caffecn.cn/)  
+
+------
+
+[Jetson TX1开发笔记(一)：开机设置与刷机](http://blog.csdn.net/c406495762/article/details/70786700)  
+
+[Jetson TX1开发笔记(二)：TX1开发前必做的几件事](http://blog.csdn.net/c406495762/article/details/70808051)  
+
+[Jetson TX1开发笔记(三)：开发利器-Nsight Eclipse Edition](http://blog.csdn.net/c406495762/article/details/70912947)  
+
+[Jetson TX1开发笔记(四)：使用Caffe对摄像机视频流中的目标进行识别](http://blog.csdn.net/c406495762/article/details/71116735)  
+
+-------
+
+[Caffe学习笔记(一)：CIFRA-10在Caffe上进行训练学习](http://blog.csdn.net/c406495762/article/details/67650370)  
+
+[Caffe学习笔记(二)：使用Python生成caffe所需的lmdb文件和txt列表清单文件](http://blog.csdn.net/c406495762/article/details/68114244)  
+
+[Caffe学习笔记(三)：cifar10_quick_train_test.prototxt配置文件分析](http://blog.csdn.net/c406495762/article/details/70255099)  
+
+[Caffe学习笔记(四)：使用pycaffe生成train.prototxt、test.prototxt文件](http://blog.csdn.net/c406495762/article/details/70306550)  
+
+[ Caffe学习笔记(五)：使用pycaffe生成solver.prototxt文件并进行训练](http://blog.csdn.net/c406495762/article/details/70306728)  
+
+[Caffe学习笔记(六)：mnist手写数字识别训练实例](http://blog.csdn.net/c406495762/article/details/70306795)  
+
+[Caffe学习笔记(七)：使用训练好的model做预测(mnist)](http://blog.csdn.net/c406495762/article/details/70446385)  
+
+--------
 
 
 
