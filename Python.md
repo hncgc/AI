@@ -105,6 +105,14 @@ IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
 
 [Python IDLE入门](https://baike.baidu.com/item/Idle/3823402?fr=aladdin#2)  
 
+[Python IDLE基本设置](http://blog.csdn.net/u013648937/article/details/43062455)  
+
+[IDLE设置主题](http://blog.csdn.net/Sifastiane/article/details/48656157)  
+
+[python IDLE 背景以及字体的修改](http://blog.csdn.net/AQ_cainiao_AQ/article/details/51701861)  
+
+[python自带IDLE多款主题下载](https://download.csdn.net/download/sifastiane/9130749)  
+
 [ 使Python IDLE也变得高颜值](http://blog.csdn.net/lingan_hong/article/details/53948598)  
 
 [如何使用Python自带编辑器IDLE](http://blog.csdn.net/iamlaosong/article/details/72902271)  
@@ -114,6 +122,17 @@ IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
 [Python编辑器IDLE使用教程](http://blog.csdn.net/k_shmily/article/details/61917959)  
 
 [ python自带IDLE(python gui)强大的调试功能](http://blog.csdn.net/Enjoy_endless/article/details/76644669)  
+
+--------
+
+pycharm
+---
+
+[Pycharm及python安装详细教程](http://blog.csdn.net/qq_29883591/article/details/52664478)  
+
+[pycharm 教程（二）设置字体大小](http://blog.csdn.net/chenggong2dm/article/details/8639318)  
+
+
 
 ------
 
@@ -220,6 +239,107 @@ Python Tkinter 简易教程
 [[Tkinter 教程15] event 事件绑定](http://blog.csdn.net/liuxu0703/article/details/60604637)  
 
 ------
+
+python应用
+---
+
+[python使用ip代理抓取网页](http://blog.csdn.net/qq_29883591/article/details/52016802)  
+
+[Python爬虫技巧---设置代理IP](http://blog.csdn.net/Lammonpeter/article/details/52917264)  
+
+[python使用代理ip访问网站](http://blog.csdn.net/Lynn_coder/article/details/79184424)  
+
+[python3 使用代理访问](http://blog.csdn.net/zjsxxzh/article/details/77899698)  
+
+[ python3爬虫 - cookie登录实战](http://blog.csdn.net/pipisorry/article/details/47948065)  
+
+[python3获取免费代理IP](http://blog.csdn.net/yixianfeng41/article/details/53045704)  
+
+[python3使用代理ip访问指定网站](http://blog.csdn.net/u013692888/article/details/53493032)  
+
+[Python3 post请求](http://blog.csdn.net/zjsxxzh/article/details/77899827)  
+
+[Python3 使用cookiejar管理cookie](http://blog.csdn.net/zjsxxzh/article/details/77914478)  
+
+[Python3 cookiejar模块详解](http://blog.csdn.net/u012175089/article/details/70135365)  
+
+Python3网络爬虫
+---
+
+[Python3网络爬虫(一)：利用urllib进行简单的网页抓取](http://blog.csdn.net/c406495762/article/details/58716886)  
+
+[Python3网络爬虫(二)：利用urllib.urlopen向有道翻译发送数据获得翻译结果](http://blog.csdn.net/c406495762/article/details/59095864)  
+
+[Python3网络爬虫(三)：urllib.error异常](http://blog.csdn.net/c406495762/article/details/59488464)  
+
+[Python3网络爬虫(四)：使用User Agent和代理IP隐藏身份](http://blog.csdn.net/c406495762/article/details/60137956)  
+
+[Python3网络爬虫(五)：Python3安装Scrapy](http://blog.csdn.net/c406495762/article/details/60156205)  
+
+[Python3网络爬虫(六)：Python3使用Cookie-模拟登陆获取妹子联系方式](http://blog.csdn.net/c406495762/article/details/69817490)  
+
+[Python3网络爬虫(七)：使用Beautiful Soup爬取小说](http://blog.csdn.net/c406495762/article/details/71158264)  
+
+[Python3网络爬虫(八)：爱奇艺等主流视频网站的VIP视频破解(在线观看+视频下载)](http://blog.csdn.net/c406495762/article/details/71334633)  
+
+[Python3网络爬虫(九)：使用Selenium爬取百度文库word文章](http://blog.csdn.net/c406495762/article/details/72331737)  
+
+[Python3网络爬虫(十)：这个帅哥、肌肉男横行的世界（爬取帅哥图）](http://blog.csdn.net/c406495762/article/details/72597755)  
+
+[Python3网络爬虫(十一)：爬虫黑科技之让你的爬虫程序更像人类用户的行为(代理IP池等)](http://blog.csdn.net/c406495762/article/details/72793480)  
+
+[Python3网络爬虫(十二)：初识Scrapy之再续火影情缘](http://blog.csdn.net/c406495762/article/details/72858983)  
+
+[Python3网络爬虫(十三)：王者荣耀那些事！(Fiddler之手机APP爬取)](http://blog.csdn.net/c406495762/article/details/76850843)  
+
+[Python3网络爬虫(十四)：跟股神巴菲特学习炒股之财务报表入库(MySQL)](http://blog.csdn.net/c406495762/article/details/77801899)  
+
+[]()  
+
+[Windows7下Python3.4使用MySQL数据库(安装教程)](http://blog.csdn.net/c406495762/article/details/56279888)  
+
+[]()  
+
+[]()  
+
+
+
+
+Python3《机器学习实战》学习笔记
+---
+
+[ack-Cui](ttp://blog.csdn.net/c406495762)  
+
+[Python3《机器学习实战》学习笔记（一）：k-近邻算法(史诗级干货长文)](http://blog.csdn.net/c406495762/article/details/75172850)  
+
+[Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](http://blog.csdn.net/c406495762/article/list/2)  
+
+[Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](http://blog.csdn.net/c406495762/article/details/76262487)  
+
+[Python3《机器学习实战》学习笔记（四）：朴素贝叶斯基础篇之言论过滤器](http://blog.csdn.net/c406495762/article/details/77341116)  
+
+[Python3《机器学习实战》学习笔记（五）：朴素贝叶斯实战篇之新浪新闻分类](http://blog.csdn.net/c406495762/article/details/77500679)  
+
+[Python3《机器学习实战》学习笔记（六）：Logistic回归基础篇之梯度上升算法](http://blog.csdn.net/c406495762/article/details/77723333)  
+
+[Python3《机器学习实战》学习笔记（七）：Logistic回归实战篇之预测病马死亡率](http://blog.csdn.net/c406495762/article/details/77851973)  
+
+[Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM](http://blog.csdn.net/c406495762/article/details/78072313)  
+
+[Python3《机器学习实战》学习笔记（九）：支持向量机实战篇之再撕非线性SVM](http://blog.csdn.net/c406495762/article/details/78158354)  
+
+[Python3《机器学习实战》学习笔记（十）：提升分类器性能利器-AdaBoost](http://blog.csdn.net/c406495762/article/details/78212124)  
+
+[Python3《机器学习实战》学习笔记（十一）：线性回归基础篇之预测鲍鱼年龄](http://blog.csdn.net/c406495762/article/details/78760239)  
+
+  
+
+
+
+
+
+
+
 
 
 
