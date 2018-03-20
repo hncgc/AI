@@ -97,6 +97,26 @@ wheel.exe
 
 -------
 
+IDLE
+---
+
+Python IDLE
+IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
+
+[Python IDLE入门](https://baike.baidu.com/item/Idle/3823402?fr=aladdin#2)  
+
+[ 使Python IDLE也变得高颜值](http://blog.csdn.net/lingan_hong/article/details/53948598)  
+
+[如何使用Python自带编辑器IDLE](http://blog.csdn.net/iamlaosong/article/details/72902271)  
+
+[Python如何用自带的IDLE进行调试DEBUG](http://blog.csdn.net/zhang_xiaomeng/article/details/72808784)  
+
+[Python编辑器IDLE使用教程](http://blog.csdn.net/k_shmily/article/details/61917959)  
+
+[ python自带IDLE(python gui)强大的调试功能](http://blog.csdn.net/Enjoy_endless/article/details/76644669)  
+
+------
+
 jupyter
 ---
 [使用Anconda安装python2.7](http://continuum.io/downloads)  
@@ -144,6 +164,66 @@ jupyter
  
 
 [Python 100例](http://www.runoob.com/python/python-100-examples.html)  
+
+[人工智能_机器学习](https://edu.csdn.net/courses/o5329_s5330/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+
+Python开发框架
+---
+
+[2017年最棒的七个Python图形应用GUI开发框架](http://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/78693348)  
+
+[28款Python GUI开发框架开源软件](http://blog.csdn.net/qq_25600055/article/details/51218943)  
+
+[Python GUI编程各种实现的对比](http://blog.csdn.net/zxxSsdsd/article/details/51162630)  
+
+[python编程之GUI的选择](http://blog.csdn.net/LearnboC/article/details/73123369)  
+
+[Python GUI之tkinter布局管理](http://blog.csdn.net/yingshukun/article/details/53983812)  
+
+[Python Tkinter Grid布局管理器详解](http://blog.csdn.net/wangyiyan315/article/details/16821381)  
+
+------
+
+Python Tkinter 简易教程
+---
+
+[Python Tkinter 简易教程 目录]（http://blog.csdn.net/column/details/14775.html）  
+
+[Tkinter 教程01] 入门: Label 控件](http://blog.csdn.net/liuxu0703/article/details/54696630)  
+
+[[Tkinter 教程02] Message 控件](http://blog.csdn.net/liuxu0703/article/details/60600852)  
+
+[[Tkinter 教程03] Button 控件](http://blog.csdn.net/liuxu0703/article/details/60639166)  
+
+[[Tkinter 教程04] Variable 类](http://blog.csdn.net/liuxu0703/article/details/60644125)  
+
+[[Tinkter 教程05] Radiobutton 控件](http://blog.csdn.net/liuxu0703/article/details/60652526)  
+
+[[Tkinter 教程06] Checkbox 控件](http://blog.csdn.net/liuxu0703/article/details/60728294)  
+
+[[Tkinter 教程07] Entry 控件](http://blog.csdn.net/liuxu0703/article/details/60781107)  
+
+[[Tkinter 教程08] Canvas 图形绘制](http://blog.csdn.net/liuxu0703/article/details/60602773)  
+
+[[Tkinter 教程09] Scale 控件](http://blog.csdn.net/liuxu0703/article/details/60781434)  
+
+[[Tkinter 教程10] Text 控件](http://blog.csdn.net/liuxu0703/article/details/60781513)  
+
+[[Tkinter 教程11] 对话框和消息框](http://blog.csdn.net/liuxu0703/article/details/60781651)  
+
+[[Tkinter 教程12] 布局管理 (Pack Place Grid)](http://blog.csdn.net/liuxu0703/article/details/54428405)
+
+[[Tkinter 教程13] Mastermind 游戏](http://blog.csdn.net/liuxu0703/article/details/60780967)  
+
+[[Tkinter 教程14] menu 菜单](http://blog.csdn.net/liuxu0703/article/details/60603701)  
+
+[[Tkinter 教程15] event 事件绑定](http://blog.csdn.net/liuxu0703/article/details/60604637)  
+
+------
+
+
+
+
 
 
 
