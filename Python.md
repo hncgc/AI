@@ -189,7 +189,7 @@ Python Tkinter 简易教程
 
 [Python Tkinter 简易教程 目录]（http://blog.csdn.net/column/details/14775.html）  
 
-[[Tkinter 教程01] 入门: Label 控件](http://blog.csdn.net/liuxu0703/article/details/54696630)  
+[[Tkinter 教程01] 入门 Label 控件](http://blog.csdn.net/liuxu0703/article/details/54696630)  
 
 [[Tkinter 教程02] Message 控件](http://blog.csdn.net/liuxu0703/article/details/60600852)  
 
