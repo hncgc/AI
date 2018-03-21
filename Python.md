@@ -139,7 +139,7 @@ pycharm
 
 [PyCharm 教程（三）Hello world！](http://blog.csdn.net/chenggong2dm/article/details/9366805)  
 
-[PyCharm 教程（四）显示行号])(http://blog.csdn.net/chenggong2dm/article/details/9368383)  
+[PyCharm 教程（四）显示行号](http://blog.csdn.net/chenggong2dm/article/details/9368383)  
 
 [PyCharm 教程（五）断点 调试](http://blog.csdn.net/chenggong2dm/article/details/9368641)  
 
