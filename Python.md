@@ -128,9 +128,53 @@ IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
 pycharm
 ---
 
-[Pycharm及python安装详细教程](http://blog.csdn.net/qq_29883591/article/details/52664478)  
+[ Pycharm](https://baike.baidu.com/item/PyCharm/8143824?fr=aladdin)  
+
+[pycharm 教程（一）安装和首次使用](http://blog.csdn.net/chenggong2dm/article/details/9365437)  
 
 [pycharm 教程（二）设置字体大小](http://blog.csdn.net/chenggong2dm/article/details/8639318)  
+
+[PyCharm 教程（三）Hello world！](http://blog.csdn.net/chenggong2dm/article/details/9366805)  
+
+[PyCharm 教程（四）显示行号])(http://blog.csdn.net/chenggong2dm/article/details/9368383)  
+
+[PyCharm 教程（五）断点 调试](http://blog.csdn.net/chenggong2dm/article/details/9368641)  
+
+[PyCharm 教程（六）自定义文件模板](http://blog.csdn.net/chenggong2dm/article/details/50906681)  
+
+[PyCharm 教程（七）管理解释器及第三方模块、包](http://blog.csdn.net/chenggong2dm/article/details/50906765)  
+
+[最全Pycharm教程（1）——定制外观](http://blog.csdn.net/u013088062/article/details/50100121)  
+
+[最全Pycharm教程（2）——代码风格](http://blog.csdn.net/u013088062/article/details/50113593)  
+
+[最全Pycharm教程（3）——代码的调试、运行](http://blog.csdn.net/u013088062/article/details/50130991)  
+
+[最全Pycharm教程（4）——有关Python解释器的相关配置](http://blog.csdn.net/u013088062/article/details/50135135)  
+
+[最全Pycharm教程（5）——Python快捷键相关设置](http://blog.csdn.net/u013088062/article/details/50144201)  
+
+[最全Pycharm教程（6）——将Pycharm作为Vim编辑器使用](http://blog.csdn.net/u013088062/article/details/50148219)  
+
+[最全Pycharm教程（7）——虚拟机VM的配置](http://blog.csdn.net/u013088062/article/details/50170551)  
+
+[http://blog.csdn.net/u013088062/article/details/50170551](http://blog.csdn.net/u013088062/article/details/50158239)  
+
+[最全Pycharm教程（9）——创建并运行一个基本的Python测试程序](http://blog.csdn.net/u013088062/article/details/50183789)  
+
+[最全Pycharm教程（10）——Pycharm调试器总篇](http://blog.csdn.net/u013088062/article/details/50214459)  
+
+[最全Pycharm教程（11）——Pycharm调试器之断点篇](http://blog.csdn.net/u013088062/article/details/50216015)  
+
+[最全Pycharm教程（12）——Pycharm调试器之Java脚本调试](http://blog.csdn.net/u013088062/article/details/50221825)  
+
+[最全Pycharm教程（13）——Pycharm部署](http://blog.csdn.net/u013088062/article/details/50246781)  
+
+[最全Pycharm教程（14）——Pycharm编辑器功能总篇](http://blog.csdn.net/u013088062/article/details/50249751)  
+
+
+[Pycharm及python安装详细教程](http://blog.csdn.net/qq_29883591/article/details/52664478)  
+
 
 
 
