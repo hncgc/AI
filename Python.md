@@ -36,6 +36,8 @@ python setup.py install
 
 添加环境变量
 
+[Python,Jupyter Notebook，IPython快速安装教程](http://www.cnblogs.com/nxld/p/6088003.html)  
+
 ```
 
 [安装Python - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)  
@@ -187,6 +189,7 @@ pycharm
 
 jupyter
 ---
+
 [使用Anconda安装python2.7](http://continuum.io/downloads)  
 
 [致Python初学者们 - Anaconda入门使用指南](https://www.jianshu.com/p/169403f7e40c)  
@@ -194,6 +197,12 @@ jupyter
 [Jupyter notebook 安装，初步使用](https://www.cnblogs.com/wrajj/p/5676705.html)  
 
 [左手程序员，右手作家：你必须会的Jupyter Notebook](http://python.jobbole.com/87527/?repeat=w3tc)  
+
+[jupyter notebook的安装与使用](http://blog.csdn.net/lee_j_r/article/details/52791228)  
+
+[Jupyter Notebook基本操作](http://blog.csdn.net/QimaoRyan/article/details/76022038)  
+
+[Jupyter notebook使用指南](http://www.sohu.com/a/206007674_100066998)  
 
 [Jupyter Notebook 快速入门](https://www.cnblogs.com/nxld/p/6566380.html)  
 
