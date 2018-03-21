@@ -127,6 +127,9 @@ IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
 
 pycharm
 ---
+[PyCharm 官网下载](https://www.jetbrains.com/pycharm/download/index.html#section=windows) 
+
+[PyCharm 2017中文破解版_PyCharm 2017下载 2017.3.4 汉化专业版](https://www.7down.com/soft/4338.html)  
 
 [ Pycharm](https://baike.baidu.com/item/PyCharm/8143824?fr=aladdin)  
 
@@ -175,7 +178,7 @@ pycharm
 
 [Pycharm及python安装详细教程](http://blog.csdn.net/qq_29883591/article/details/52664478)  
 
-
+[在Pycharm中使用GitHub](http://www.cnblogs.com/feixuelove1009/p/5955332.html)  
 
 
 ------
@@ -233,6 +236,9 @@ jupyter
 Python开发框架
 ---
 
+Django、tornado、Bottle、web py、Flask、Pyramid、Aiohttp、Weppy、 Scrapy等助理框架
+
+
 [2017年最棒的七个Python图形应用GUI开发框架](http://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/78693348)  
 
 [28款Python GUI开发框架开源软件](http://blog.csdn.net/qq_25600055/article/details/51218943)  
@@ -244,6 +250,29 @@ Python开发框架
 [Python GUI之tkinter布局管理](http://blog.csdn.net/yingshukun/article/details/53983812)  
 
 [Python Tkinter Grid布局管理器详解](http://blog.csdn.net/wangyiyan315/article/details/16821381)  
+
+Django
+---
+
+[django （Python Web 框架）](https://baike.baidu.com/item/django/61531?fr=aladdin)  
+
+[Django 基础教程 - 自强学堂](https://code.ziqiangxuetang.com/django/django-tutorial.html)  
+
+[Django 教程 | 菜鸟教程](http://www.runoob.com/django/django-tutorial.html)  
+
+[简约而不简单的Django新手图文教程](https://www.cnblogs.com/feixuelove1009/p/5823135.html)  
+
+[Django之路由、模板和模型系统](http://www.cnblogs.com/feixuelove1009/p/5855295.html)  
+
+[Django之Form、CSRF、cookie和session](http://www.cnblogs.com/feixuelove1009/p/5867288.html)  
+
+[Django简介--Django从入门到精通系列教程](http://www.cnblogs.com/feixuelove1009/p/8403581.html)  
+
+[Django环境安装--Django从入门到精通系列教程](http://www.cnblogs.com/feixuelove1009/p/8403624.html)  
+
+[Django 2.0 新款URL配置详解](http://www.cnblogs.com/feixuelove1009/p/8399338.html)  
+
+[随笔分类 - Django从入门到精通 目录](http://www.cnblogs.com/feixuelove1009/category/1158337.html)  
 
 ------
 
@@ -408,13 +437,16 @@ Caffe
 
 [Caffe学习笔记(四)：使用pycaffe生成train.prototxt、test.prototxt文件](http://blog.csdn.net/c406495762/article/details/70306550)  
 
-[ Caffe学习笔记(五)：使用pycaffe生成solver.prototxt文件并进行训练](http://blog.csdn.net/c406495762/article/details/70306728)  
+[Caffe学习笔记(五)：使用pycaffe生成solver.prototxt文件并进行训练](http://blog.csdn.net/c406495762/article/details/70306728)  
 
 [Caffe学习笔记(六)：mnist手写数字识别训练实例](http://blog.csdn.net/c406495762/article/details/70306795)  
 
 [Caffe学习笔记(七)：使用训练好的model做预测(mnist)](http://blog.csdn.net/c406495762/article/details/70446385)  
 
 --------
+
+[python社区_零基础入门_掌握流行编程语言](http://www.python88.com/)  
+
 
 
 
