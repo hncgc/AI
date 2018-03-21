@@ -1,6 +1,8 @@
 Python
 ===
 
+[写给自学者的入门指南](https://kb.cnblogs.com/page/575255/)  
+
 Python安装
 ---
 [Python 3.6.4](https://www.python.org/downloads/release/python-364/)  
@@ -193,6 +195,8 @@ jupyter
 
 [左手程序员，右手作家：你必须会的Jupyter Notebook](http://python.jobbole.com/87527/?repeat=w3tc)  
 
+[Jupyter Notebook 快速入门](https://www.cnblogs.com/nxld/p/6566380.html)  
+
 -------
 
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
@@ -236,8 +240,9 @@ jupyter
 Python开发框架
 ---
 
-Django、tornado、Bottle、web py、Flask、Pyramid、Aiohttp、Weppy、 Scrapy等助理框架
+Django、tornado、Bottle、web py、Flask、Pyramid、Aiohttp、Weppy、 Scrapy等助理框架  
 
+Matplotlib 是一个用于创建漂亮图形的 Python 库  
 
 [2017年最棒的七个Python图形应用GUI开发框架](http://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/78693348)  
 
