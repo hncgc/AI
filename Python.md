@@ -197,6 +197,29 @@ jupyter
 
 [Jupyter Notebook 快速入门](https://www.cnblogs.com/nxld/p/6566380.html)  
 
+[Python·Jupyter Notebook各种使用方法](http://blog.csdn.net/liuyanlin610/article/details/76231958)  
+```
+更改Jupyter notebook的工作空间
+
+在cmd中输入jupyter notebook --generate-config
+
+如果该配置文件已经存在，那么，会出现如下信息,从中可以见到配置文件存在的位置
+
+在其配置文件jupyter_notebook_config.py中，找到
+
+# The directory to use for notebooks and kernels.
+# c.NotebookApp.notebook_dir = ''
+
+c.NotebookApp.notebook_dir = 'F:\python\test'   # error
+
+c.NotebookApp.notebook_dir = 'F:/python/test'
+
+C:\Users\Administrator>jupyter notebook --generate-config
+Writing default config to: 
+C:\Users\Administrator\.jupyter\jupyter_notebook_config.py
+
+```
+
 -------
 
 [Python （计算机程序设计语言）](https://baike.baidu.com/item/Python/407313?fr=aladdin)  
