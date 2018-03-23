@@ -263,7 +263,8 @@ C:\Users\Administrator\.jupyter\jupyter_notebook_config.py
 
 [Python入门基础 搜狐视频](https://edu.tv.sohu.com/play/sid/f031a6c300ece0d9)  
 
- 
+[全套Python基础视频 从基础到精通](https://edu.tv.sohu.com/course/0dca81b7b8c3745a)  
+
 
 [Python 100例](http://www.runoob.com/python/python-100-examples.html)  
 
