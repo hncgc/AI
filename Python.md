@@ -133,6 +133,20 @@ pycharm
 ---
 [PyCharm 官网下载](https://www.jetbrains.com/pycharm/download/index.html#section=windows) 
 
+```
+Pycharm安装
+https://www.jetbrains.com/pycharm/download/#section=windows
+pycharm-community-2017.3.4.exe 社区版免费
+pycharm-professional-2017.3.4.exe 专业版收费
+社区版安装
+C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4
+启动
+"C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4\bin\pycharm64.exe"
+```
+
+[python3在线编辑解释器](http://www.runoob.com/try/runcode.php?filename=HelloWorld&type=python3)  
+
+
 [PyCharm 2017中文破解版_PyCharm 2017下载 2017.3.4 汉化专业版](https://www.7down.com/soft/4338.html)  
 
 [ Pycharm](https://baike.baidu.com/item/PyCharm/8143824?fr=aladdin)  
