@@ -1,6 +1,45 @@
 Python Web开发
 ===
 
+Python Web框架
+---
+
+http://wiki.python.org/moin/WebFrameworks
+
+> Python web框架  
+> Django、tornado、flask、webpy
+
+[浅谈五大Python Web框架](https://www.cnblogs.com/suzhigang/p/6208244.html)  
+
+```
+Django: Python Web应用开发框架
+Pylons:本身只有两千行左右的Python代码，不过它还附带有一些几乎就是Pylons御用 的第三方模块
+Tornado:异步非阻塞IO的Python Web框架
+Bottle: 微型Python Web框架
+Flask: 轻量级Web应用框架,Flask的插件虽然非常丰富
+Quixote:著名的 豆瓣 就是基于 Quixote 开发的
+Pyramid:更适合做一个想「长久」的应用
+webpy:不错，简单，小巧，灵活
+web2py:全栈式Web框架
+Sanic：它是一个类似Flask的异步web框架
+```
+[Python 有哪些好的 Web 框架？](https://www.zhihu.com/question/20706333)  
+> django -> web.py -> tornado -> bottle -> flask
+
+
+[Day 5 - 编写Web框架](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0014023080708565bc89d6ab886481fb25a16cdc3b773f0000)  
+awesome-python-webapp: https://github.com/michaelliao/awesome-python-webapp/blob/release/www/transwarp/web.py
+
+[Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)  
+
+[ Python web 目前较火的三大框架](https://blog.csdn.net/chenming_python/article/details/79126243)  
+
+[Python几种主流框架](https://www.cnblogs.com/linkenpark/p/5881586.html)  
+
+[10款Web开发最佳的Python框架](https://www.cnblogs.com/acmwangpeng/p/5524815.html)  
+
+--------
+
 [python web开发入门](https://blog.csdn.net/yz764127031/article/details/71583674)  
 
 [Python实现简单的Web服务器](https://www.shiyanlou.com/courses/552)
