@@ -242,6 +242,25 @@ Writing default config to:
 C:\Users\Administrator\.jupyter\jupyter_notebook_config.py
 
 ```
+Visual studio code
+---
+
+[isual studio code下载](https://code.visualstudio.com/)  
+
+[Visual studio code](https://baike.baidu.com/item/visual%20studio%20code/17514281?fr=aladdin)  
+
+[Visual Studio Code使用心得](https://blog.csdn.net/jiangwei0512/article/details/52079031)  
+
+[学会用好 Visual Studio Code](https://blog.csdn.net/GarfieldEr007/article/details/54619959)  
+
+[初试Visual Studio Code配置Python开发环境](https://blog.csdn.net/tntnaoh/article/details/51173528)  
+
+[Visual Studio Code + python 开发环境搭建](https://blog.csdn.net/weixinhum/article/details/73038117)  
+
+[用VSCode写python的正确姿势](https://blog.csdn.net/u013597671/article/details/77693180)  
+
+[Visual Studio Code配置PHP开发环境](https://blog.csdn.net/vezn_king/article/details/75453717)  
+
 
 -------
 
