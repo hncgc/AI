@@ -3,13 +3,16 @@ Python
 
 [写给自学者的入门指南](https://kb.cnblogs.com/page/575255/)  
 
-Python安装
----
 [Python 3.6.4](https://www.python.org/downloads/release/python-364/)  
 
 [Python 官网文档](https://docs.python.org/3.6/index.html)  
 
 [Python 官网教程](https://docs.python.org/3.6/tutorial/index.html)  
+
+[阿里云 > 教程中心 > Python教程](https://www.aliyun.com/jiaocheng/python?spm=5176.100033.1.6.QbdqlF)  
+
+Python安装
+---
 
 [在windows64位上安装Python3.0](https://www.cnblogs.com/panpanilu/p/7766951.html)  
 > 下载地址：https://www.python.org/downloads/
