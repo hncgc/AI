@@ -27,6 +27,7 @@ django入门与实践 https://link.zhihu.com/?target=http%3A//www.imooc.com/lear
 ```
 
 [django （Python Web 框架）](https://baike.baidu.com/item/django/61531?fr=aladdin)  
+http://pan.baidu.com/s/1o7X4xQy  
 
 [简约而不简单的Django新手图文教程](https://www.cnblogs.com/feixuelove1009/p/5823135.html)  
 
