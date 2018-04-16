@@ -42,7 +42,7 @@ awesome-python-webapp: https://github.com/michaelliao/awesome-python-webapp/blob
 Django
 ---
 
-[Django](https://github.com/hncgc/AI/blob/master/PythonWeb/Django/README.md
+[Django](https://github.com/hncgc/AI/blob/master/Python/PythonWeb/Django/README.md)  
 
 -----
 
