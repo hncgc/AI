@@ -27,7 +27,6 @@ django入门与实践 https://link.zhihu.com/?target=http%3A//www.imooc.com/lear
 ```
 
 [django （Python Web 框架）](https://baike.baidu.com/item/django/61531?fr=aladdin)  
-http://pan.baidu.com/s/1o7X4xQy  
 
 [简约而不简单的Django新手图文教程](https://www.cnblogs.com/feixuelove1009/p/5823135.html)  
 
@@ -47,6 +46,7 @@ http://pan.baidu.com/s/1o7X4xQy
 ## 视频
 
 [[django视频教程]python django的安装和基本操作](http://www.fanhuaxiu.com/article/791/)  
+整个视频教程我上传到了百度云: http://pan.baidu.com/s/1o7X4xQy  
 
 [[django视频教程]理解django框架的逻辑结构，创建第一个app](http://www.fanhuaxiu.com/article/792/)  
 
