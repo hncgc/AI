@@ -83,11 +83,23 @@ http://continuum.io/downloads
 
 
 
-Anaconda3.5.1.0安装
+Anaconda
 ---
+
+[致Python初学者们 - Anaconda入门使用指南](https://www.jianshu.com/p/169403f7e40c)  
+
+#### Anaconda3.5.1.0安装
+
 [Download Anaconda Distribution](https://www.anaconda.com/download/)  
 https://repo.continuum.io/archive/Anaconda3-5.1.0-Windows-x86_64.exe
 > 下载很费时，要几个小时
+
+[清华大学软件镜像站 Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)  
+```
+Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Windows, 包含了众多流行的科学计算、数据分析的 Python 包。
+Anaconda 安装包可以到 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/ 下载。
+
+```
 
 C:\ProgramData\Anaconda3
 
