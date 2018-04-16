@@ -132,6 +132,9 @@ https://edu.tv.sohu.com/
 [全套Python基础视频 从基础到精通](https://edu.tv.sohu.com/course/0dca81b7b8c3745a)  
 
 ## Pycharm安装
+
+https://www.jetbrains.com/pycharm/download/#section=windows  
+
 ```
 https://www.jetbrains.com/pycharm/download/#section=windows
 pycharm-community-2017.3.4.exe 社区版免费
@@ -144,6 +147,46 @@ C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4
 python3在线编辑解释器
 http://www.runoob.com/try/runcode.php?filename=HelloWorld&type=python3
 ```
+[Python学习手册(第4版) 原版清晰PDF带书签目录](http://www.linuxidc.com/Linux/2016-07/133286.htm)  
+Linux公社FTP: ftp://ftp1.linuxidc.com/  
+```
+FTP地址：ftp://ftp1.linuxidc.com
+用户名：ftp1.linuxidc.com
+密码：www.linuxidc.com
+在 2016年LinuxIDC.com\7月\Python学习手册(第4版) 原版清晰PDF带书签目录\
+```
+[Home/2017年资料/4月/3日/人工智能（AI）程序设计（面向对象语言）PDF+PPT与习题等/](https://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy801MIvM8jVL8jLuaTWx8Tco6hBSaOps8zQ8snovMajqMPmz/K21M/z0+/R1KOpUERGK1BQVNPrz7DM4rXI)  
+
+[Python socket cs远程命令执行案例](https://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8z1MIvMTTI1Q==)  
+
+[Home/2017年资料/3月/10日/精通Python设计模式 高清晰PDF+源码/](https://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8z1MIvMTDI1S++q82oUHl0aG9uyei8xsSjyr0guN/H5c76UERGK9S0wus=)
+
+[Home/2017年资料/2月/10日/](https://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8y1MIvMTDI1Q==)  
+
+[Home/2017年资料/2月/10日/利用Python脚本获取Windows和Linux的系统版本信息/](https://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8y1MIvMTDI1S/A+9PDUHl0aG9uvcWxvrvxyKFXaW5kb3dzus1MaW51eLXEz7XNs7Dmsb7Qxc+i)  
+
+[Home/pub/Android源码集锦/](https://linux.linuxidc.com/index.php?folder=cHViL0FuZHJvaWTUtMLrvK+99Q==)  
+
+
+Visual studio code
+---
+
+[Visual studio code下载](https://code.visualstudio.com/)  
+
+[Visual studio code](https://baike.baidu.com/item/visual%20studio%20code/17514281?fr=aladdin)  
+
+[Visual Studio Code使用心得](https://blog.csdn.net/jiangwei0512/article/details/52079031)  
+
+[学会用好 Visual Studio Code](https://blog.csdn.net/GarfieldEr007/article/details/54619959)  
+
+[初试Visual Studio Code配置Python开发环境](https://blog.csdn.net/tntnaoh/article/details/51173528)  
+
+[Visual Studio Code + python 开发环境搭建](https://blog.csdn.net/weixinhum/article/details/73038117)  
+
+[用VSCode写python的正确姿势](https://blog.csdn.net/u013597671/article/details/77693180)  
+
+[Visual Studio Code配置PHP开发环境](https://blog.csdn.net/vezn_king/article/details/75453717)  
+
 
 
 
