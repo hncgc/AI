@@ -7,5 +7,3 @@
 [Conda包管理](https://github.com/hncgc/AI/blob/master/Python/Conda%E5%8C%85%E7%AE%A1%E7%90%86.md)  
 
 [Python Web开发](https://github.com/hncgc/AI/blob/master/Python/PythonWeb/PythonWeb%E5%BC%80%E5%8F%91.md)  
-
-[TensorFlow](https://github.com/hncgc/AI/blob/master/Python/TensorFlow.md)  
