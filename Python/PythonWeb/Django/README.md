@@ -42,6 +42,11 @@ django入门与实践 https://link.zhihu.com/?target=http%3A//www.imooc.com/lear
 
 [随笔分类 - Django从入门到精通 目录](http://www.cnblogs.com/feixuelove1009/category/1158337.html)  
 
+[The Django Book](http://djangobook.py3k.cn/2.0/)  
+
+[十分钟学会用Django快速搭建一个blog](http://www.magedu.com/73093.html)  
+
+
 
 ## 视频
 
