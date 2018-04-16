@@ -61,25 +61,25 @@ C:>python
 C:>
 ```
 
-使用Anconda安装python2.7
----
-
-http://continuum.io/downloads  
-
-交互式运行（在Widows平台下有 ipython notebook）
-
-
-
 Anaconda
 ---
 
 [致Python初学者们 - Anaconda入门使用指南](https://www.jianshu.com/p/169403f7e40c)  
+
+[安装Anaconda](https://blog.csdn.net/qq_36790747/article/details/63257244)  
+```
+下载
+从官网下载：Download Anaconda Now!不过官网速度比较慢，不太推荐。
+从清华镜像下载：Tsinghua Open Source Mirror(推荐)
+```
 
 #### Anaconda3.5.1.0安装
 
 [Download Anaconda Distribution](https://www.anaconda.com/download/)  
 https://repo.continuum.io/archive/Anaconda3-5.1.0-Windows-x86_64.exe
 > 下载很费时，要几个小时
+
+交互式运行（在Widows平台下有 ipython notebook）
 
 [清华大学软件镜像站 Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)  
 ```
@@ -102,6 +102,8 @@ jupyter notebook
 F:\AI>set path=%path%;C:\ProgramData\Anaconda3\Scripts
 
 
+
+
 ## jupyter
 
 [Jupyter Notebook 快速入门](https://www.cnblogs.com/nxld/p/6566380.html)  
@@ -112,6 +114,8 @@ Shift + Enter 运行代码单元格
 
 Matplotlib 是一个用于创建漂亮图形的 Python 库
 
+使用Anconda安装python2.7
+---
 
 [Jupyter notebook 安装，初步使用](https://www.cnblogs.com/wrajj/p/5676705.html)  
 
