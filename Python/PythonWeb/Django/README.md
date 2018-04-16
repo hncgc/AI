@@ -3,6 +3,8 @@
 Django
 ---
 
+[Django 学习资源](https://code.ziqiangxuetang.com/learn_share/django-learn-resource.html)  
+
 [django （Python Web 框架）](https://baike.baidu.com/item/django/61531?fr=aladdin)  
 
 [Django 基础教程 - 自强学堂](https://code.ziqiangxuetang.com/django/django-tutorial.html)  
