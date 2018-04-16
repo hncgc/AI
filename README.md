@@ -2,7 +2,7 @@
 
 [AI](https://github.com/hncgc/AI/blob/master/AI.md)  
 
-[Python](https://github.com/hncgc/AI/blob/master/Python/README.md)
+[Python](https://github.com/hncgc/AI/tree/master/Python)
 
 [TensorFlow](https://github.com/hncgc/AI/blob/master/TensorFlow.md)  
 
