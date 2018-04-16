@@ -68,19 +68,6 @@ http://continuum.io/downloads
 
 交互式运行（在Widows平台下有 ipython notebook）
 
-## jupyter
-
-[致Python初学者们 - Anaconda入门使用指南](https://www.jianshu.com/p/169403f7e40c)  
-
-[Jupyter notebook 安装，初步使用](https://www.cnblogs.com/wrajj/p/5676705.html)  
-
-[左手程序员，右手作家：你必须会的Jupyter Notebook](http://python.jobbole.com/87527/?repeat=w3tc)  
-
-
-[python入门基础视频](https://edu.tv.sohu.com/play/sid/ba815508527b07ef)  
-
-[Python IDLE](IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
-
 
 
 Anaconda
@@ -114,6 +101,9 @@ jupyter notebook
 
 F:\AI>set path=%path%;C:\ProgramData\Anaconda3\Scripts
 
+
+## jupyter
+
 [Jupyter Notebook 快速入门](https://www.cnblogs.com/nxld/p/6566380.html)  
 
 Shift + Enter 运行代码单元格
@@ -121,6 +111,16 @@ Shift + Enter 运行代码单元格
 计算整个 notebook，只要点击Cell -> Run all
 
 Matplotlib 是一个用于创建漂亮图形的 Python 库
+
+
+[Jupyter notebook 安装，初步使用](https://www.cnblogs.com/wrajj/p/5676705.html)  
+
+[左手程序员，右手作家：你必须会的Jupyter Notebook](http://python.jobbole.com/87527/?repeat=w3tc)  
+
+[python入门基础视频](https://edu.tv.sohu.com/play/sid/ba815508527b07ef)  
+
+[Python IDLE](IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。
+
 
 [Python·Jupyter Notebook各种使用方法](http://blog.csdn.net/liuyanlin610/article/details/76231958)  
 
