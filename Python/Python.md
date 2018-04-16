@@ -3,6 +3,8 @@ Python
 
 [写给自学者的入门指南](https://kb.cnblogs.com/page/575255/)  
 
+[Python 学习资源](https://code.ziqiangxuetang.com/learn_share/python-learn-resource.html)  
+
 [Python 3.6.4](https://www.python.org/downloads/release/python-364/)  
 
 [Python 官网文档](https://docs.python.org/3.6/index.html)  
