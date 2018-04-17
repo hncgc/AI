@@ -1,6 +1,12 @@
 Python Web开发
 ===
 
+## WSGI
+
+[WSGI接口 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386832689740b04430a98f614b6da89da2157ea3efe2000)  
+
+[详解WSGI](https://blog.csdn.net/li_101357/article/details/52748323)  
+
 Python Web框架
 ---
 
