@@ -48,7 +48,9 @@ Django
 
 [python web开发入门](https://blog.csdn.net/yz764127031/article/details/71583674)  
 
-[Python实现简单的Web服务器](https://www.shiyanlou.com/courses/552)
+[Python实现简单的Web服务器](https://www.shiyanlou.com/courses/552)  
+
+[实验楼](https://www.shiyanlou.com/courses/)  
 
 [深入理解 Python WSGI：一起写一个 Web 服务器](https://my.oschina.net/leejun2005/blog/486771)  
 
